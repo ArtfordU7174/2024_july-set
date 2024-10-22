@@ -43,4 +43,6 @@ Feel free to customize the web page and styles:
 
 This project is open-source and available under the [MIT License](LICENSE). Feel free to use, modify, and distribute it as you see fit.
 
-## Added boto3 code for adding in aws users
+## Added boto3 code for adding in aws user
+
+## Added password as well

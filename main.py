@@ -18,4 +18,4 @@ def list_iam_users():
 # Call the function
 if __name__ == "__main__":
     list_iam_users()
-
+# add users passwords
